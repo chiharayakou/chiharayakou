@@ -16,7 +16,7 @@ I'm currently working on a project that will help conlangers all around the worl
 ![](https://github-contributor-stats.vercel.app/api?username=chiharayakou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dmytropetrushov@gmail.com) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=WTVRHPDDSQVEG) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
