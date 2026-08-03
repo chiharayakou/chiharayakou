@@ -1,22 +1,55 @@
-# 💫 About Me:
-I'm currently working on a project that will help conlangers all around the world to make their conlangs more cross-referenced and disciplined
+<h1 align="center">🐉 Chihara</h1>
 
+<br>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/chiharayakou.ru) 
+<h3 align="center">🛠️ Skills</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chiharayakou&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chiharayakou&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiharayakou&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chiharayakou&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=WTVRHPDDSQVEG) 
+<h3 align="center">📊 GitHub Stats</h3>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chiharayakou&theme=bear&show_icons=true&hide_border=true&count_private=true">
+</p>
+
+<br>
+
+<h3 align="center">🏆 Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=chiharayakou&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+<br>
+
+<h3 align="center">🐍 Contributions</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiharayakou/chiharayakou/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiharayakou/chiharayakou/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/chiharayakou/chiharayakou/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
